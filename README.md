@@ -1,6 +1,8 @@
 # SMA-leader-follower
 roscore
+
 rosrun map_server map_server map.yaml
+
 roslaunch amclmulti launch_gazebo.launch
 
 
