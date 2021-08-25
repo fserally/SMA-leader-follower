@@ -11,7 +11,9 @@ for random robot location
 
 for specific location
 roslaunch amclmulti turtle_multiple.launch multi_robot_name:=tb3_0 x_pos:=2.0 y_pos:=1.0
+
 roslaunch amclmulti turtle_multiple.launch multi_robot_name:=tb3_1 x_pos:=2.0 y_pos:=0.0
+
 roslaunch amclmulti turtle_multiple.launch multi_robot_name:=tb3_2 x_pos:=2.0 y_pos:=-1.0
 
 on new terminal
