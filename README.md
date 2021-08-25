@@ -24,7 +24,7 @@ rosrun amclmulti leader_follower_v2.py tb3_0 tb3_1 leader1
 
 on another terminal
 
-rosrun amclmulti leader_follower_v2.py tb3_1 tb3_2 leader1
+rosrun amclmulti leader_follower_v2.py tb3_1 tb3_2 leader2
 
 on another terminal
 
