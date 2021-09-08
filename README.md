@@ -1,4 +1,6 @@
 # SMA-leader-follower
+Unzip turtlebot3_simulations.zip
+
 roscore
 
 rosrun map_server map_server map.yaml
