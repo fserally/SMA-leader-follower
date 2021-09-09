@@ -1,6 +1,8 @@
 # SMA-leader-follower
 Unzip turtlebot3_simulations.zip
 
+Move the file n_robot.sh in the root folder of catkin_ws
+
 roscore
 
 rosrun map_server map_server map.yaml
