@@ -1,4 +1,3 @@
-# SMA-leader-follower
 Unzip turtlebot3_simulations.zip
 
 Move the file n_robot.sh in the root folder of catkin_ws
@@ -9,10 +8,9 @@ rosrun map_server map_server map.yaml
 
 roslaunch amclmulti launch_gazebo.launch
 
+for random robot location
 
-for random robot location 
-
-./n_robot.sh
+./n_robot.sh tb3_0
 
 for specific location
 
